@@ -10,6 +10,7 @@
     font-family: "Roboto", sans-serif;
 
     word-wrap: wrap;
+    animation-duration: 5s;
   }
 
 
@@ -819,18 +820,18 @@ header main .button button a{
         justify-content: space-evenly;
     }
 
-    nav .nav_logo{
+    /* nav .nav_logo{
         /* background-color: yellow; */
-    }
+    } */
     
     header .nbar nav.link{
         /* background-color: red; */
         width:  80vw;
     }
 
-    .about{
+    /* .about{
         padd
-    }
+    } */
 
     .about .left_box{
         width: 200px;
@@ -888,13 +889,13 @@ header main .button button a{
         width: 100vw;
     }
 
-    footer .footer_top{
+    /* footer .footer_top{
         /* width: 100vw; */
         /* align-items: ; */
         /* justify-content: space-around; */
-    }
-}
+    /* } */ 
 
+    
 
 
 /* ***** code for small devices *****  */
@@ -1041,4 +1042,4 @@ header main .button button a{
         text-align: center;
     }
 
-}
+   }
