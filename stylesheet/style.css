@@ -900,7 +900,7 @@ header main .button button a{
 
 /* ***** code for small devices *****  */
 
-@media (max-width: 724px){
+@media (min-width: 724px){
     header .nbar nav{
         width: 100%;
         /* background-color: blue; */
